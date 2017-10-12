@@ -23,7 +23,9 @@ The program was written in python(see turnstile.py). By using the attached compo
 A program was used to synchronize instantly the data stored in the csv file on the server with other administrator computers. Visualization dashboards on admins computers can now update in real time and present live information about the usage of the library.
 
 ## Visualization Dashboards
-This visualization dashboard was created using Tableau and will give insight about the use of the library. Click [here](https://www.youtube.com/watch?v=XHXS1-kQKsU&t=24s) for a video demonstration
+This visualization dashboard was created using Tableau and will give insight about the use of the library. 
+
+Click [here](https://www.youtube.com/watch?v=XHXS1-kQKsU&t=24s) for a video demonstration
 ![turnstile simulator](https://github.com/MariosGeorgiou/TurnRight/blob/master/images/dashboard.png)
 
 
