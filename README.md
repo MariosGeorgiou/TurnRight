@@ -7,9 +7,13 @@ After analysing the data that the library collects, many errors were discovered 
 # Technologies
 ## Hardware
 The simulation was constructed out of a shoebox, using the following technologies:
+
 -Intel Edison IoT development kit
+
 -Seed Grove starter kit plus components
+
 Demonstration of the simulation can be found [here](https://www.youtube.com/watch?v=lkNqXZlRsuA)
+
 ![turnstile simulator](https://github.com/MariosGeorgiou/TurnRight/blob/master/images/turnstiles_replica.jpg)
 
 ## Software
